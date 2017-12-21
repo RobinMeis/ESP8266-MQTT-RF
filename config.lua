@@ -1,0 +1,3 @@
+SERVER = "10.1.10.2"
+BASE_TOPIC = ""
+PIN = 4
