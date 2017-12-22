@@ -27,4 +27,4 @@ If you don't change the base topic, you can switch your sockets like this:
 Bad! You might use test servers like test.mosquitto.org. BUT: Anybody would be able to switch your sockets
 
 ## Disclaimer
-Please make shure not to plug in any devices that are not meant to run unattended. Imagine you neighbor has the same house/unit code and accidently switches your devices. Please be careful
+Please make shure not to plug in any devices that are not meant to run unattended. Imagine your neighbor has the same house/unit code and accidently switches your devices (like a heater). Please be careful
